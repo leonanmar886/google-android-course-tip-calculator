@@ -146,7 +146,7 @@ fun EditNumberField(
 
 @Preview(showBackground = true)
 @Composable
-fun TipTimeScreenPreview() {
+fun TipTimeLayoutPreview() {
     TipTimeTheme {
         TipTimeLayout()
     }
